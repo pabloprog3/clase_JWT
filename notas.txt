@@ -1,0 +1,7 @@
+https://github.com/firebase/php-jwt
+
+https://github.com/auth0/angular2-jwt
+
+
+
+composer require firebase/php-jwt

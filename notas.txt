@@ -1,7 +1,20 @@
-https://github.com/firebase/php-jwt
+https://github.com/firebase/php-jwt -> generar el token desde php
+
+archivos:
+.php(localhost:8080)  ->  devuelve el token por get
+
+.html.js.ts(4200)  ->tomo el token con la clase auth0
+
+El token se pasa a traves del header.
+
+
+
 
 https://github.com/auth0/angular2-jwt
 
 
 
-composer require firebase/php-jwt
+
+
+
+https://github.com/octaviovillegas/LaboIV-Auth
